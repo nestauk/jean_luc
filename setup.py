@@ -4,7 +4,7 @@ common_kwargs = dict(
         version='0.1.0',
         license='MIT',
         install_requires=[
-            'numpy==1.17.3',
+            'numpy==1.22.0',
             'pytest==3.9.2'
             ],
         long_description=open('README.md').read(),
